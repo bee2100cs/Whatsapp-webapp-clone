@@ -1,0 +1,29 @@
+Whatsapp clone
+Dependencies
+Client:
+axios - for API calling
+emoji-picker-react for emojis
+firebase for login
+next js application dependencies
+    * 
+    *
+react-file-resizer
+socket.io-clinent
+wavesufer for audio Vforms
+zego-express-engine for video calls
+
+Server:
+Prisa for database management
+crypto for token management
+multer for handling files and saving to desktop
+socket-io for socket
+dotenv for env varibales
+cors for cross origin requests
+
+
+
+design login page
+    Add login with google button
+    create a firebase function for authentication
+    create firebase project and link with project using FirebaseConfig.js
+    
